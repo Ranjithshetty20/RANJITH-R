@@ -15,10 +15,11 @@ I'm Ranjith R, a 26-year old Mechanical Engineering enthusiast who does mechanic
     <th>Conveyor Design</th> 
     <th>3D Modeling</th>
     <th>Surface Modeling</th>
+	<th>hydraulic cylinder</th>
   </tr>
   <tr>
-    <td>
-		<a href="https://github.com/Ranjithshetty20/RANJITH-R/edit/main/conveyor.md">
+    <td>	
+         <a href="https://github.com/Ranjithshetty20/RANJITH-R/blob/main/conveyor.md">  
 			<img src="https://github.com/Ranjithshetty20/RANJITH-R/blob/main/conveyor/WhatsApp%20Image%202026-05-09%20at%204.26.00%20PM%20(1).jpeg" />
 		</a>
 	</td>
@@ -28,6 +29,11 @@ I'm Ranjith R, a 26-year old Mechanical Engineering enthusiast who does mechanic
 		</a>
 	</td>
     <td>
+		<a href="https://github.com/chroma-works/NeoDoa">
+			<img src="https://user-images.githubusercontent.com/25724155/72576385-9ca35100-38e0-11ea-9f10-5de3852e6df3.png" />
+		</a>
+	</td>
+	  <td>
 		<a href="https://github.com/chroma-works/NeoDoa">
 			<img src="https://user-images.githubusercontent.com/25724155/72576385-9ca35100-38e0-11ea-9f10-5de3852e6df3.png" />
 		</a>
