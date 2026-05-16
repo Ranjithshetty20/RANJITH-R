@@ -6,6 +6,7 @@ I'm Ranjith R, a 26-year old Mechanical Engineering enthusiast who does mechanic
 - 💻 I ~like~ **love** Design
 - 🔭 I’m currently working on toy Assembly SPM machine
 - 🌱 I’m currently learning Robtics and Automation
+- 🔭 All Types of Conveyor and Automation  Design 
 #### :computer: Some of My Projects image links: 
 
  ## “Click on the image to view more information.”
