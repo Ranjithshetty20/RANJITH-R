@@ -6,6 +6,6 @@ I'm Ranjith R, a 26-year old Mechanical Engineering enthusiast who does mechanic
 
 - 🔭 I’m currently working on toy Assembly SPM machine
 - 🌱 I’m currently learning Robtics and Automation
-- 😄 Pronouns: He
+
 
 
