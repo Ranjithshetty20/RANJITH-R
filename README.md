@@ -32,7 +32,7 @@ I'm Ranjith R, a 26-year old Mechanical Engineering enthusiast who does mechanic
 		</a>
 	</td>
     <td>
-		<a href="https://github.com/Ranjithshetty20/RANJITH-R/tree/main/conveyor">
+		<a href="https://github.com/Ranjithshetty20/RANJITH-R/blob/main/conveyor/surface%20modeling.md">
 			<img src="https://github.com/Ranjithshetty20/RANJITH-R/blob/main/conveyor/propeller.JPG" />
 		</a>
 	</td>
