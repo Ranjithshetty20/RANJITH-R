@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--- 🔭 I’m currently working on [Facemask Detector](https://github.com/AkhilGKrishnan/Face-Mask-Detector)-->
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on [CensorLabel](https://github.com/AkhilGKrishnan/CensorLabel)
+<!--- 🔭 I’m currently working on toy Assembly SPM machine
+- 🌱 I’m currently learning Robtics and Automation
+- 👯 I’m looking to collaborate on
 - 😄 Pronouns: He/His/Him
 
 
