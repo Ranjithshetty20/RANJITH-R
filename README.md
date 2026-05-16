@@ -8,7 +8,7 @@ I'm Ranjith R, a 26-year old Mechanical Engineering enthusiast who does mechanic
 - 🌱 I’m currently learning Robtics and Automation
 #### :computer: Some of My Projects image links: 
 
- ## - clik on the image to view more
+ ## “Click on the image to view more information.”
 
 <table style="width:100%; table-layout:fixed">
   <tr>
