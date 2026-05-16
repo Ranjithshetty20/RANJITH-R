@@ -1,20 +1,20 @@
 
 ### Hi there I'm [Ranjith!](https://akhilgkrishnan.me)👋
-I'm Ranjith R, a 26-year old Mechanical Engineering enthusiast who does mechanical design
+I'm Ranjith R, a 26-year old Mechanical Engineering enthusiast who does mechanical design and partime Mechanical Cad Freelancer
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ranjith-r-04b20b254/)
 - 💻 I ~like~ **love** Design
 - 🔭 I’m currently working on toy Assembly SPM machine
 - 🌱 I’m currently learning Robtics and Automation
-#### :computer: Projects image links: 
+#### :computer: Some of My Projects image links: 
 
-## - 🔭 I'm currently working on
+ ## - clik on the image to view more
 
 <table style="width:100%; table-layout:fixed">
   <tr>
-    <th>My Small 2D Game Engine</th>
-    <th>A RISK tabletop game implementation</th>
-    <th>My Small 2D Game Engine, but in C++</th>
+    <th>Conveyor Design</th> 
+    <th>3D Modeling</th>
+    <th>Surface Modeling</th>
   </tr>
   <tr>
     <td>
