@@ -13,7 +13,7 @@ I'm Ranjith R, a 26-year old Mechanical Engineering enthusiast who does mechanic
 
 <table style="width:100%; table-layout:fixed">
   <tr>
-    <th>Conveyor Design</th> 
+    <th>Flexible Scissor Conveyor.</th> 
     <th>3D Modeling</th>
     <th>Surface Modeling</th>
 	<th>hydraulic cylinder</th>
