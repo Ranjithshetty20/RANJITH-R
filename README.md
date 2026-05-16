@@ -12,13 +12,13 @@ I'm Ranjith R, a 26-year old Mechanical Engineering enthusiast who does mechanic
 
 <table style="width:100%; table-layout:fixed">
   <tr>
-    <a href="https://github.com/Ranjithshetty20/RANJITH-R/edit/main/conveyor.md">
+    <th>My Small 2D Game Engine</th>
     <th>A RISK tabletop game implementation</th>
     <th>My Small 2D Game Engine, but in C++</th>
   </tr>
   <tr>
     <td>
-		<a href="https://github.com/aeris170/DoaEngine">
+		<a href="https://github.com/Ranjithshetty20/RANJITH-R/edit/main/conveyor.md">
 			<img src="https://github.com/Ranjithshetty20/RANJITH-R/blob/main/conveyor/WhatsApp%20Image%202026-05-09%20at%204.26.00%20PM%20(1).jpeg" />
 		</a>
 	</td>
